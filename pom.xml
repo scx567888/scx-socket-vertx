@@ -108,7 +108,7 @@
 
         <scx.version>3.4.2</scx.version>
 		<vertx.version>4.5.11</vertx.version>
-        <testng.version>7.10.2</testng.version>
+        <testng.version>7.11.0</testng.version>
 
     </properties>
 
